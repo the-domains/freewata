@@ -1,7 +1,7 @@
 name: freewata
 favicon: null
-layout_spectrum: 0.24064
-typography_spectrum: 1
+layout_spectrum: 0.75648
+typography_spectrum: 0.32692
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0
-  lightness: 0.2974768227431923
-  saturation: 0.7250739859882742
-  rhythmicContrast: 0.23477065423503518
+  brandStrength: 0.125
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
